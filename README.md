@@ -25,24 +25,24 @@ A mini recipe website to demonstrate my HTML learning journey. The goal of this 
 
 ## Project structure 
 
-- `index.html` (home page)
-- `recipes/` (folder for recipe pages)
-  - `pho.html`
-  - `bun-cha.html`
-  - `goi-cuon.html`
+- `odin-recipes`
+    - `README.md`
+    - `image/`
+        - `banh_mi/`
+        - `pho`/
+        - `spring_roll/`
+        - `banh_mi.webp`
+        - `pho-beef.jpg`
+        - `spring_roll.webp`
+        - `viet-flag.jpg`
 
+    - `html/`
+        - `index.html` (home page)
+        - `recipes/` (folder for recipe pages)
+            - `pho.html`
+            - `bun-cha.html`
+            - `goi-cuon.html`
 
----
-
-## Vietnamese recipes I plan to add
-
-I’m going to gradually add my favorite Vietnamese dishes, such as:
-
-- **Phở**
-- **Bún chả**
-- **Gỏi cuốn**
-
-Each recipe page will follow the same consistent structure to keep the site clean and easy to expand.
 
 ---
 
