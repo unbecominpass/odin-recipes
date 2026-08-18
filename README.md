@@ -39,9 +39,9 @@ A mini recipe website to demonstrate my HTML learning journey. The goal of this 
     - `html/`
         - `index.html` (home page)
         - `recipes/` (folder for recipe pages)
-            - `pho.html`
-            - `bun-cha.html`
-            - `goi-cuon.html`
+            - `phô.html`
+            - `bhan_mi.html`
+            - `spring_rolls.html`
 
 
 ---
