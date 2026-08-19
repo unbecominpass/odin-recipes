@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(236, 230, 230);
+}
+
+h1 {
+    background-color: red;
+    text-align: center;
+    padding: 50px;
+    margin: 20px;
+
+
+}
+
+.list_index {
+    background-color: rgb(255, 81, 81);
+    padding: 50px;
+    text-align: center;
+    margin: 10px;
+    font-style: italic;
+    font-size:x-large;
+    display: block;
+    list-style-position: inside;
+    
+}
+
+.credit {
+    padding: 10px 10px;
+    text-align: center;
+    margin-top: -60px;
+}
+
+img {
+    margin: 0px auto;
+    display: block;
+    width: 120px;
+
+}
+
